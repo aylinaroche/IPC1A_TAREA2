@@ -15,11 +15,11 @@
 </font></th>
 </tr>
 
-<td> <font face="Papyrus"> Aylin Zulema Aroche Arzú
+<td> <font face="Papyrus"> Aylin Zulema Aroche Arbizu
 </font></td>
 <td> <font face="Papyrus"> 201404368
 </font></td>
-<td> <img src="img.jpg">
+<td> <img src="idea.jpg">
 </td>
 </table></center>
 
